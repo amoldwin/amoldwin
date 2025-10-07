@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amoldwin
-- 👀 I’m interested in interpretable Natural Language Processing and Machine Learning for clinical applications
+- 👀 I’m interested in Bio/cheminformatics and Machine Learning for Science
 <!--
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
